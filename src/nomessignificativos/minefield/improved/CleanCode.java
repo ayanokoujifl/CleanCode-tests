@@ -1,7 +1,9 @@
 package nomessignificativos.minefield.improved;
 
 import java.util.ArrayList;
+
 import java.util.List;
+
 
 public class CleanCode {
 
@@ -29,3 +31,4 @@ public class CleanCode {
 	}
 	
 }
+
